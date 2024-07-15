@@ -1,11 +1,11 @@
 export const Bio = {
   name: "Abishek",
-  roles: ["Frontend Developer", "Programmer"],
+  roles: ["Frontend Developer", "Full Stack Developer", "Programmer"],
   description:
     "I'm a Comprehensive Full-Stack Developer with a solid understanding of HTML, CSS, JavaScript, ReactJS, MySQL, PHP, and NodeJS. Demonstrated experience in the conception and execution of scalable, high-performing website applications. Expert level experience in the coordination of team efforts for the end result of a qualitative user experience and sustained business growth. A point in staying up-to-date with the technologies that are emerging by learning and following the discipline of lifelong learning.",
   github: "https://github.com/AbishekCodeCraft",
   resume:
-    "https://drive.google.com/file/d/1rwvse9UP8wg4QSppWmmMrzVp7vIO6soO/view",
+    "https://drive.google.com/file/d/1pkWobkUvADf0GjQk58ZSHxu2dKZPubll/view",
   linkedin: "https://www.linkedin.com/in/abishek-k-v/",
   insta: "https://www.instagram.com/abishek_19_02/",
   facebook: "https://www.facebook.com/vijay.abishek.923?mibextid=ZbWKwL",
